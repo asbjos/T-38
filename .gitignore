@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+.vs/T38/v16/.suo
+*.db
+*.ipch
+*.log
+*.tlog
+*.pdb
+*.filters
+*.user
